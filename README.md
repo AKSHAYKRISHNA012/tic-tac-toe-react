@@ -1,4 +1,26 @@
-# Getting Started with Create React App
+# Tic-Tac-Toe React Game
+
+A fully functional Tic-Tac-Toe game built with React.js featuring two-player gameplay, turn indicators, winner detection, and game restart functionality.
+
+## Features
+
+- ✅ Two-player gameplay (X and O)
+- ✅ Turn indicator showing current player
+- ✅ Winner detection for all winning combinations
+- ✅ Draw detection when board is full
+- ✅ Restart game functionality
+- ✅ Clean, responsive design
+
+## How to Play
+
+1. Players take turns clicking on empty squares
+2. Player X goes first
+3. The game displays whose turn it is
+4. First player to get 3 in a row (horizontally, vertically, or diagonally) wins
+5. If all squares are filled with no winner, it's a draw
+6. Click "Restart Game" to play again
+
+## Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
